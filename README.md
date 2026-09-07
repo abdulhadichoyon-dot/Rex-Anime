@@ -19,6 +19,7 @@ Open `index.html` directly in a browser, or serve the folder with any static web
 
 ## Real RX Anime link
 The CTA currently points to:
+https://abdulhadichoyon-dot.github.io/Rex-Anime/
 
 
 Change that URL in `index.html` if the real RX Anime address changes.
